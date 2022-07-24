@@ -4,7 +4,7 @@
 }
 body {
   background-color: #212121;
- display: flex;
+  display: flex;
   justify-content: center;
   align-items: center;
   flex-direction: column;
@@ -14,7 +14,6 @@ img {
   height: 100%;
 }
 #layout {
-
 }
 .div {
   position: relative;
@@ -27,5 +26,5 @@ img {
   bottom: 15px;
   left: 50%;
   transform: translateX(-50%);
-  color: #000;
+  color: #fff;
 }
